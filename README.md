@@ -1,7 +1,5 @@
 # DigiPad
-An unique platform to showcase ideas and impressions by using augmented reality or virtual reality experience.
-
-The “Digipad” is a platform where the story authors and readers put together their ideas and impressions towards others all around the globe. The story writers can write best quality stories which can be interpreted into Augmented Reality/ Virtual Reality or 360° Videos. This platform would provide the chance for the readers to understand the stories into reality with virtual objects. Utilizing a way to make our reader comfortable with the story is the motive this application. 
+ The “Digipad” is a platform where the story authors and readers put together their ideas and impressions towards others all around the globe. The story writers can write best quality stories which can be interpreted into Augmented Reality/ Virtual Reality or 360° Videos. This platform would provide the chance for the readers to understand the stories into reality with virtual objects. Utilizing a way to make our reader comfortable with the story is the motive this application. 
  
  The Modules of the project are: 
 	Index Page
